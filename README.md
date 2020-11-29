@@ -5,7 +5,7 @@ by [javirk](https://github.com/javirk), which is used to remove people from imag
 by [hmartelb](https://github.com/hmartelb), transfering the timbre from audio by first transforming the audio into an image.  
 Donna follows a conventional path, as we're just starting to get to know the Pix2Pix architecture, and Deep Learning for that matter. 
 The idea is pretty simple, taking a bad resolution picture from a pet and translating it to one with better resolution, as the example below.  
-![Expected IO](expectedio.png)
+![Expected IO](Images/expectedio.png)
 
 By the way, the data comes from [The Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/), but we had to do some minor modifications in order 
 to be able to use it smoothly, this modifications are shown in the [rotenning images script](https://github.com/RicFraga/Donna/blob/main/Creating%20dataset/Rotting%20Images.ipynb).  
