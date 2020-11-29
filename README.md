@@ -1,5 +1,5 @@
 # Donna  
-Donna follows the hundreds of projects using the Pix2Pix architecture for solving Image-to-Image Translation tasks. 
+Donna follows the hundreds of projects using the [Pix2Pix architecture](https://arxiv.org/abs/1611.07004) for solving Image-to-Image Translation tasks. 
 This tasks are incredibly varied, from conventional Pix2Pix  uses as the one presented [here](https://github.com/javirk/Person_remover)
 by [javirk](https://github.com/javirk), which is used to remove people from images and videos, to this unconventional one [here](https://github.com/hmartelb/Pix2Pix-Timbre-Transfer)
 by [hmartelb](https://github.com/hmartelb), transfering the timbre from audio by first transforming the audio into an image.  
