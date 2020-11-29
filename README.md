@@ -10,3 +10,6 @@ The idea is pretty simple, taking a bad resolution picture from a pet and transl
 By the way, the data comes from [The Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/), but we had to do some minor modifications in order 
 to be able to use it smoothly, this modifications are shown in the [rotenning images script](https://github.com/RicFraga/Donna/blob/main/Creating%20dataset/Rotting%20Images.ipynb).  
 
+Also, the repo is named after my dog, because she also takes something crappy and transforms it into something pretty  :doughnut:.  
+![Donna](Images/donna.jpg)
+
